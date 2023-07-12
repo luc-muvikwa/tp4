@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+body{
+    background-color: rgb(122, 124, 119);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top : 20px;
+    font-family: "centrury gothic";
+    
+
+}
+
+h1{
+    color:rgb(26, 221, 29);
+}
+
+h1,
+
+#menu{
+    display: inline;
+}
+
+#menu  {
+    margin-left: 100px;
+}
+
+#menu a{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 10px;
+    color:hsl(0, 27%, 96%);
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+border-radius: 2px;
+
+}
+
+#menu a:hover{
+    background-color: rgb(224, 176, 176);
+    color:rgb(2, 28, 114);
+
+}
+
+#identites,
+#reseaux,
+#produits {
+    background-color: rgb(244, 212, 212);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+h2{
+    color: rgb(74, 48, 160);
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+td{
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+
+}
+
+#produits p{
+    display: inline-block;
+    margin-right: 15px;
+    vertical-align: top;
+}
+
+#produits p img {
+    width: 200px;
+}
